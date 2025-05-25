@@ -31,7 +31,23 @@ Para X estudiantes.
 
 ### Historia del uso de git y terminologías sobre repositorios
 
+Git fue lanzado el año 2005 por Linus Torvalds <https://en.wikipedia.org/wiki/Git>.
+
+Una carpeta con archivos, que usa el control de versiones de Git, le llamamos "repositorio" o "repo".
+
+Un repositorio puede estar en tu computador, y/o en la nube.
+
+Entonces la ecuación es
+
+$$carpeta + git = repositorio$$
+
 ### Git en tu computador, GitHub en la nube
+
+En tu computador, puedes instalar Git desde la web <https://git-scm.com/>.
+
+Para computadores con sistemas MacOS, recomiendo instalar Git y cualquier otra herramiente de línea de comandos usando el gestor de paquetes Homebrew <https://brew.sh/>.
+
+En este curso usaremos GitHub, que es un servicio de administración y hosting de repositorios hechos con Git, lanzada el año 2008, y ahora parte de Microsoft <https://en.wikipedia.org/wiki/GitHub>.
 
 ### Alternativas al ecosistema GitHub, como GitLab y otras
 
