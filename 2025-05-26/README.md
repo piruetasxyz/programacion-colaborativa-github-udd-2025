@@ -73,18 +73,42 @@ En el 2017 GitHub lanzó su propia variante de Markdown, llamada GFM (GitHub Fla
 
 ### Uso de Markdown para documentación multimedia
 
+Para agregar imágenes:
+
+Para agregar animaciones en formato .gif:
+
+Para agregar videos:
+
 ## Deployment de páginas web alojadas en repositorios GitHub
+
+En Settings -> GitHub Pages
 
 ### Convertir un repositorio en una página web estática gratuita
 
 ### Aumentar las posibilidades de Markdown con HTML
 
+Agregar videos.
+
 ### Aumentar las posibilidades de Markdown con CSS y con Jekyll
+
+CSS es un lenguaje de estilos.
+
+Jekyll es un generador de sitios estáticos, hechos con el lenguaje Ruby.
 
 ## Técnicas para alojar, versionar y programar de forma colaborativa
 
 ### Versionamento semántico v0.0.1
 
+Tenemos 3 distintos números en semver:
+
+1. **Mayor**: Cambios incompatibles con versiones anteriores.
+2. **Menor**: Cambios compatibles con versiones anteriores.
+3. **Parche**: Cambios compatibles con versiones anteriores, pero que no cambian la API.
+
 ### Estrategias para colaborar entre estudiantes de un curso
+
+Proponemos que exista un repo principal, y que cada estudiante tenga su propio fork de este repo.
+
+Para evitar conflictos entre estudiantes, recomendamos que cada estudiante trabaje en su propio fork, y que tenga su propia carpeta de trabajo, para que no existan posibles conflictos entre estudiantes mientras colaboran en archivos.
 
 ### Navegar historial de avances del curso para revisiones asíncronas
