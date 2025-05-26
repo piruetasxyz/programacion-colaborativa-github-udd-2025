@@ -105,6 +105,16 @@ Tenemos 3 distintos números en semver:
 2. **Menor**: Cambios compatibles con versiones anteriores.
 3. **Parche**: Cambios compatibles con versiones anteriores, pero que no cambian la API.
 
+En piruetas, pensamos los números de derecha a izquierda:
+
+- El tercer número (parche) lo aumentamos en 1 cuando encontrams un error, y lo resolvemos. Como publicamos frecuentemente borradores, estos van aumentando rápidamente este número.
+
+- El segundo número (menor) lo aumentamos en 1 cuando lanzamos un conjunto de implementaciones o interfaces que aumntan el funcionamiento.
+
+- El tercer número (mayor) lo aumentamos en 1 cuando lanzamos una versión importante, que rompe o cambia funcionamientos anteriores.
+
+Cuando uno de los números sube en 1, resetea a 0 los que están a su derecha.
+
 ### Estrategias para colaborar entre estudiantes de un curso
 
 Proponemos que exista un repo principal, y que cada estudiante tenga su propio fork de este repo.
