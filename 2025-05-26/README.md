@@ -1,4 +1,4 @@
-why# 2025-05-26
+# 2025-05-26
 
 Programación colaborativa en GitHub, sobre los fundamentos de la programación colaborativa en repositorios.
 
