@@ -122,3 +122,7 @@ Proponemos que exista un repo principal, y que cada estudiante tenga su propio f
 Para evitar conflictos entre estudiantes, recomendamos que cada estudiante trabaje en su propio fork, y que tenga su propia carpeta de trabajo, para que no existan posibles conflictos entre estudiantes mientras colaboran en archivos.
 
 ### Navegar historial de avances del curso para revisiones asíncronas
+
+Cada commit en un repositorio queda grabado, y en github.com y en otras herramientas como Visual Studio Code también podemos navegar el historial de cambios del repo completo, y de cada archivo, a través del tiempo.
+
+Al ver los cambios en un archivo, recomendamos centrarse en lo verde (agregado) y lo rojo (borrado).
