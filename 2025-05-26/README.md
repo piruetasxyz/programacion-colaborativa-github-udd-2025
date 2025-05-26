@@ -65,8 +65,18 @@ En el 2017 GitHub lanzó su propia variante de Markdown, llamada GFM (GitHub Fla
 
 ### Etiquetado con Markdown y comparación con HTML
 
+Para crear un título eb Markdown, usamos el prefijo hashtag + espacio.
+
+Si queremos subtítulos, usamos hashtags adicionales.
+
 ```md
-# ejemplo de Título
+# ejemplo de título
+
+yadda yadda
+
+## ejemplo de subtítulo
+
+sub sub
 ```
 
 ### Uso de Markdown en sabor GItHub (GFM) y sus addons
