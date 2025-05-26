@@ -1,4 +1,4 @@
-# 2025-05-26
+why# 2025-05-26
 
 Programación colaborativa en GitHub, sobre los fundamentos de la programación colaborativa en repositorios.
 
@@ -83,6 +83,10 @@ sub sub
 
 ### Uso de Markdown para documentación multimedia
 
+Para subir multimedia a Markdown, hay 2 opciones: drag and drop, y hacerlo a mano.
+
+Recomendamos hacerlo a mano, ya que así el repositorio está autocontenido y no necesita acceso a internet para funcionar localmente en tu computador.
+
 Para agregar imágenes:
 
 Para agregar animaciones en formato .gif:
@@ -93,11 +97,28 @@ Para agregar videos:
 
 En Settings -> GitHub Pages
 
+Cualquier archivo que se llame README.md se compilará como una web.
+
+Si en la misma carpeta hay otro archivo README.md, se puede acceder con la dirección explícita.
+
+Si hay un archivo index.html, tiene prioridas y hace override al README.md.
+
 ### Convertir un repositorio en una página web estática gratuita
+
+Ejemplo práctico de convertir sus repos a webs.
+
+Importancia de usar nombres de archivos y de repos siguiendo buenos modales:
+
+* Solamente usar caracteres alfanuméricos presentes en inglés o dash - o underscore _.
+* Caracteres prohibidos: punto, coma, ampersand, espacio, paréntesis, etc.
+* empezar siempre los nombres con una letra minúscula, o sea, sin mayúsculas, sin números ni otro caracter.
+* recomendamos usar camelCase.
 
 ### Aumentar las posibilidades de Markdown con HTML
 
 Agregar videos.
+
+intercalar HTML.
 
 ### Aumentar las posibilidades de Markdown con CSS y con Jekyll
 
