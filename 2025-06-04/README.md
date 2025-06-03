@@ -33,21 +33,25 @@ Un fork es una copia del repositorio original, que permite creditar y apuntar al
 
 El repositorio original no puede hacer cambios en el fork, y viceversa tampoco: el fork no puede hacer cambios en el repositorio original.
 
-Forks apuntan al repositorio original.
+Forks apuntan al repositorio del cuál se originaron.
+
+Pueden haber múltiples forks de un mismo repositorio, y cada fork puede tener múltiples branches.
 
 ### Cómo un admin puede administrar la complejidad de las redes de forks
 
 Los admins de un repositorio pueden navegar los forks, revisar los cambios, proponer, aceptar o rechazar cambios.
 
+En la práctica de Piruetas, los forks incluyen carpetas distintas para cada estudiante. Los estudiantes hacen un fork del repositorio compartido, y cada estudiante trabaja exclusivamente en su propia carpeta, para así evitar que existan conflictos de código.
+
 ## Uso de issues para discutir mejoras y errores en repositorios y código
 
-Templates de issues para reportar errores y mejoras.
+Puedes crear templates de issues para reportar errores y mejoras, y para automatizar procesos.
 
-Estos templates se hacen en la carpeta especial '.github/ISSUE_TEMPLATE'.
+estos templates se hacen en la carpeta especial '.github/ISSUE_TEMPLATE'.
 
 ### Comunicación profesional y efectiva entre programadores y admins
 
-etiquetar con @
+etiquetar con arroba.
 
 pedir ayuda a otras personas.
 
@@ -55,7 +59,13 @@ distribuir secciones de un repositorio entre admins.
 
 ### Uso de lenguaje unívoco / no ambiguo para describir problemas y conflictos
 
-esto ocurre en este lugar, en esta línea
+esto ocurre en este lugar, de micro a macro:
+
+* en estas líneas
+* en este archivo
+* en este commit
+* en esta branch
+* en este repositorio
 
 ### Uso de issues para asignar roles y denunciar problemas en código
 
