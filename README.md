@@ -12,7 +12,7 @@ Este curso se dicta en 3 fechas: las 2 primeras fechas son el mismo curso inicia
 
 1. [2025-05-26](./2025-05-26/): curso inicial de 3 horas.
 1. [2025-05-28](./2025-05-28/): curso inicial de 3 horas.
-1. [2025-06-04](./2025-05-28/): curso avanzado de 3 horas.
+1. [2025-06-04](./2025-06-04/): curso avanzado de 3 horas.
 
 ## Licencia
 
