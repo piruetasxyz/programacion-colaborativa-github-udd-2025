@@ -29,7 +29,7 @@ Para 10 estudiantes.
 4. eeminionn
 5. X
 6. X
-7. RoqueLafuente
+7. X
 8. X
 9. X
 10. X
