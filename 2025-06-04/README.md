@@ -28,7 +28,7 @@ Para 10 estudiantes.
 3. X
 4. X
 5. X
-6. X
+6. carlitoselias
 7. X
 8. X
 9. X
