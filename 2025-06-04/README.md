@@ -24,12 +24,12 @@ Para 10 estudiantes.
 ## Asistentes
 
 1. Darío
-2. X
+2. jjawiwi
 3. Xatouh
-4. X
+4. eeminionn
 5. X
 6. X
-7. X
+7. RoqueLafuente
 8. X
 9. X
 10. X
