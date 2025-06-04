@@ -29,7 +29,7 @@ Para 10 estudiantes.
 4. X
 5. X
 6. X
-7. X
+7. RoqueLafuente
 8. X
 9. X
 10. X
