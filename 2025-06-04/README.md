@@ -23,6 +23,8 @@ Para 10 estudiantes.
 
 ## Asistentes
 
+* Darío
+
 ## Uso de forks para distribuir contenidos entre muchos usuarios
 
 Antes de hablar de forks, hablemos de branches. Las branches son una forma de crear en el mismo repositorio una copia del código, para trabajar en paralelo.
