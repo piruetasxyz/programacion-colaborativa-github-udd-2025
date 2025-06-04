@@ -28,8 +28,8 @@ Para 10 estudiantes.
 3. X
 4. X
 5. X
-6. carlitoselias fghr rhrh
-7. X fghf
+6. carlitoselias
+7. X 
 8. X
 9. X
 10. X
