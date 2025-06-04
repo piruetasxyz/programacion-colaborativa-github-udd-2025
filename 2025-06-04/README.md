@@ -24,7 +24,7 @@ Para 10 estudiantes.
 ## Asistentes
 
 1. Darío
-2. X
+2. jjawiwi
 3. X
 4. X
 5. X
